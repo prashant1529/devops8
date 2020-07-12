@@ -1,4 +1,4 @@
-# devops_task2
+# devops_task1
 This post is about how we can integrate git,github,docker & jenkins together to make a fully automated process from developer end to the operational team to reduce the manual work.
 Here every tool is used for some specific purpose.This process consist of the following phases -
 1.Base OS (RHEL8) - Here we start the services like jenkins,docker and stop the firewall using the systemctl start service_name.
